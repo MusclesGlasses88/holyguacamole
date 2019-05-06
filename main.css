@@ -1,0 +1,33 @@
+h1{
+
+    text-align: center;
+    line-height: 100px;
+
+}
+
+.header{
+
+    color:darkblue;
+    background-color: lightgrey;
+
+}
+
+.container{
+
+    color:darkblue;
+}
+
+body{
+    /*background: url(images/digital.jpeg)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;; }*/
+}
+
+/*.source-image {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5/*
