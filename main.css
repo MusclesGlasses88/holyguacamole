@@ -18,16 +18,11 @@ h1{
 }
 
 body{
-    /*background: url(images/digital.jpeg)no-repeat center center fixed;
+    background: url(images/desk.png)no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;; }*/
-}
-
-/*.source-image {
+  background-size: cover;
   width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 5/*
+  height: auto;
+    }
